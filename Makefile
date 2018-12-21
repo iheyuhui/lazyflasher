@@ -1,6 +1,6 @@
-NAME ?= kernel-flasher
+NAME ?= fly
 
-VERSION ?= 6.0
+VERSION ?= v1
 
 DATE := $(shell date +'%Y%m%d-%H%M')
 
