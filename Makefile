@@ -1,6 +1,6 @@
-NAME ?= fly
+NAME ?= heyuhui
 
-VERSION ?= v1
+VERSION ?= kernel
 
 DATE := $(shell date +'%Y%m%d-%H%M')
 
